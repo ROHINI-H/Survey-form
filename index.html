@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Registration form </title>
+</head>
+
+<body>
+    <header>
+        <h1 id="title">Registration form</h1>
+        <p id="description">Fill in to register yourself</p>
+    </header>
+    <main>
+        <form id="survey-form">
+            <div class="container">
+                <label for="name" id="name-label">Name</label>
+                <input id="name" type="text" placeholder="Enter your name" required />
+            </div>
+            <div class="container">
+                <label for="email" id="email-label">Email</label>
+                <input type="email" id="email" pattern="/^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/" placeholder="Enter your email" required />
+            </div>
+            <div class="container">
+                <label for="number" id="number-label">Phone</label>
+                <input type="number" id="number" pattern="[0-9]" placeholder="Enter your phone number" />
+            </div>
+            <div class="container">
+                <label for="dropdown">Current city</label>
+                <select id="dropdown">
+                    <option>-- Select --</option>
+                    <option>Chennai</option>
+                    <option>Madurai</option>
+                    <option>Delhi</option>
+                    <option>others</option>
+                </select>
+            </div>
+            <div class="container">
+                <label for="gender">Gender</label>
+                <div id="gender">
+                    <label for="male"><input type="radio" name="radio" value="1" id="male" /> Male</label>
+                    <label for="female"><input type="radio" name="radio" value="2" id="female" /> Female</label>
+                </div>
+            </div>
+            <div class="container">
+                <label for="courses">Courses</label>
+                <div id="courses">
+                    <label for="ai"><input type="checkbox" value="one" id="ai"> Artificial Intelligence</label>
+                    <label for="ds"><input type="checkbox" value="two" id="ds"> Data Science</label>
+                    <label for="ml"><input type="checkbox" value="three" id="ml"> Machine learning</label>
+                    <label for="python"><input type="checkbox" value="four" id="python"> Python Programming</label>
+                </div>
+            </div>
+            <div class="container">
+                <label for="address">Address</label>
+                <textarea id="address" placeholder="Enter your Address..."></textarea>
+            </div>
+            <div class="container">
+                <input type="submit" id="submit" class="btn">
+            </div>
+        </form>
+    </main>
+</body>
+
+</html>

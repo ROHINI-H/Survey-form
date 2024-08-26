@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Chakra+Petch&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(45deg, rgb(49, 77, 191), rgb(31, 117, 187), rgb(101, 205, 240));
+    width: 50%;
+    margin: 10px auto;
+}
+
+header {
+    padding: 50px;
+    text-align: center;
+}
+
+#title {
+    font-family: "Baskervville SC", serif;
+    font-size: 50px;
+    letter-spacing: 5px;
+    color: rgb(124, 251, 236);
+}
+
+#description {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(17, 111, 117);
+    font-size: 25px;
+    font-weight: 700;
+}
+
+main {
+    background-color: rgba(245, 245, 245, 0.9);
+    padding: 25px 50px;
+    font-family: "Chakra Petch", sans-serif;
+    color: rgb(11, 70, 93);
+    border-radius: 10px;
+}
+
+.container {
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 5em;
+}
+
+input[type=text], input[type=email], input[type=number], select, textarea {
+    height: 30px;
+    padding: 5px;
+    color: gray;
+}
+
+#gender, #courses {
+    padding-top: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#address {
+    margin-top: 5px;
+    height: 100px;
+}
+
+.btn {
+    height: 40px;
+    color: rgb(69, 73, 75);
+    background-color: rgb(237, 239, 239);
+    font-family: "Chakra Petch", sans-serif;
+    font-size: 30px;
+    border: 1px solid rgb(220, 220, 220);
+    border-radius: 15px;
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+        width: 80%;
+    }
+
+    header {
+        padding: 10px;
+    }
+
+    main {
+        padding: 20px;
+    }
+
+    #title {
+        font-size: 30px;
+    }
+
+    #description {
+        font-size: 15px;
+    }
+}
