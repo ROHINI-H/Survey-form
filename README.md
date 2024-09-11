@@ -1,7 +1,7 @@
 # FreeCodeCamp Project: Build a Survey form
 
 ## Description
-This repository contains my solution to the FreeCodeCamp "Build a Survey Form" challenge. The goal of this project is to create a responsive Survey form website that showcases my skills and experience. I have designed the website to survey user who have taken up a course from our training center.
+This repository contains my solution to the FreeCodeCamp "Build a Survey Form" challenge as part of Responsive Web Design Course. The goal of this project is to create a responsive Survey form website that showcases my skills and experience. I have designed the website to survey user who have taken up a course from our training center.
 
 ## FCC Challenge Link
 https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form 
