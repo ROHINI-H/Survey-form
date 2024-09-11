@@ -59,7 +59,7 @@ input[type=text], input[type=email], input[type=number], select, textarea {
     justify-content: space-between;
 }
 
-#address {
+#comments {
     margin-top: 5px;
     height: 100px;
 }
