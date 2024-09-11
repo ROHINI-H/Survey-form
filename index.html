@@ -2,15 +2,15 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles.css">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Registration form </title>
+    <title> Survey form </title>
 </head>
 
 <body>
     <header>
-        <h1 id="title">Registration form</h1>
+        <h1 id="title">Survey form</h1>
         <p id="description">Fill in to register yourself</p>
     </header>
     <main>
@@ -21,19 +21,19 @@
             </div>
             <div class="container">
                 <label for="email" id="email-label">Email</label>
-                <input type="email" id="email" pattern="/^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/" placeholder="Enter your email" required />
+                <input type="email" id="email" pattern="[a-z][0-5]{8}" placeholder="Enter your email" required />
             </div>
             <div class="container">
                 <label for="number" id="number-label">Phone</label>
-                <input type="number" id="number" pattern="[0-9]" placeholder="Enter your phone number" />
+                <input type="number" id="number" pattern="[0-9]" min="1000000000" max="9999999999" placeholder="Enter your phone number" />
             </div>
             <div class="container">
-                <label for="dropdown">Current city</label>
+                <label for="dropdown">Your Fav Feature</label>
                 <select id="dropdown">
                     <option>-- Select --</option>
-                    <option>Chennai</option>
-                    <option>Madurai</option>
-                    <option>Delhi</option>
+                    <option>Training Material</option>
+                    <option>Projects</option>
+                    <option>Community</option>
                     <option>others</option>
                 </select>
             </div>
@@ -45,7 +45,7 @@
                 </div>
             </div>
             <div class="container">
-                <label for="courses">Courses</label>
+                <label for="courses">Courses To Be Improved</label>
                 <div id="courses">
                     <label for="ai"><input type="checkbox" value="one" id="ai"> Artificial Intelligence</label>
                     <label for="ds"><input type="checkbox" value="two" id="ds"> Data Science</label>
@@ -54,8 +54,8 @@
                 </div>
             </div>
             <div class="container">
-                <label for="address">Address</label>
-                <textarea id="address" placeholder="Enter your Address..."></textarea>
+                <label for="comments">Additional Comments</label>
+                <textarea id="comments" placeholder="Enter your Suggestions or Comments..."></textarea>
             </div>
             <div class="container">
                 <input type="submit" id="submit" class="btn">
