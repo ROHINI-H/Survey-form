@@ -42,6 +42,7 @@ The project meets the following user stories:
 14.Inside the form element, you can select several fields from a series of checkboxes, each of which must have a value attribute
 15. Inside the form element, you are presented with a textarea for additional comments
 16. Inside the form element, you are presented with a button with id of submit to submit all the inputs
+
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
 ## Contributing
