@@ -1,25 +1,25 @@
-#FreeCodeCamp Project: Build a Survey form
+# FreeCodeCamp Project: Build a Survey form
 
-##Description
+## Description
 This repository contains my solution to the FreeCodeCamp "Build a Survey Form" challenge. The goal of this project is to create a responsive Survey form website that showcases my skills and experience. I have designed to get user responses after taking a course from our training center.
 
-##FCC Challenge Link
+## FCC Challenge Link
 https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form 
 
-##Installation
+## Installation
 To view this project, simply clone this repository and open the index.html file in your web browser.
 
-##Usage
+## Usage
 This website is a survey form, showcasing my skills and experience in web development. You can use it as a template for your own survey form.
 
-##Features
+## Features
 
 - Responsive design using HTML, CSS, and JavaScript
 - Navigation menu with smooth scrolling
 - Project showcase with images and descriptions
 - Contact form with validation
 
-##FCC User Story
+## FCC User Story
 The project meets the following user stories:
 
 1. You should have a page title in an h1 element with an id of title
@@ -40,14 +40,14 @@ The project meets the following user stories:
 16. Inside the form element, you are presented with a button with id of submit to submit all the inputs
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
-##Contributing
+## Contributing
 If you'd like to contribute to this project, please fork this repository and submit a pull request. You can also report issues or suggest improvements by opening an issue.
 
-##License
+## License
 This project is licensed under the MIT License.
 
-##Acknowledgments
+## Acknowledgments
 Special thanks to FreeCodeCamp for providing the challenge and resources to learn web development.
 
-##Connect with me
+## Connect with me
 If you'd like to learn more about my work or connect professionally, you can find me on LinkedIn: www.linkedin.com/in/rohini-h
