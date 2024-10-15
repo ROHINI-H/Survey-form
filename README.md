@@ -19,7 +19,7 @@ This website is a survey form, showcasing my skills and experience in web develo
 - Project showcase with background and fields to get inputs.
 - Contact form with validation
 
-## 🚀Demo
+## 🎆Demo
 ![Screenshot 2024-09-11 200104](https://github.com/user-attachments/assets/275fc26a-8b40-424f-8925-607ce9fadb3e)
 ![Screenshot 2024-09-11 200126](https://github.com/user-attachments/assets/9be7f4a5-3788-474f-b171-301e31055b84)
 
@@ -51,8 +51,8 @@ If you'd like to contribute to this project, please fork this repository and sub
 ## 🔏License
 This project is licensed under the MIT License.
 
-## Acknowledgments
+## 🙇🏻‍♀️Acknowledgments
 Special thanks to FreeCodeCamp for providing the challenge and resources to learn web development.
 
-## Connect with me
+## 🚀Connect with me
 If you'd like to learn more about my work or connect professionally, you can find me on LinkedIn: www.linkedin.com/in/rohini-h
