@@ -19,7 +19,7 @@ This website is a survey form, showcasing my skills and experience in web develo
 - Project showcase with background and fields to get inputs.
 - Contact form with validation
 
-## 🎆Demo
+## 🌸Demo
 ![Screenshot 2024-09-11 200104](https://github.com/user-attachments/assets/275fc26a-8b40-424f-8925-607ce9fadb3e)
 ![Screenshot 2024-09-11 200126](https://github.com/user-attachments/assets/9be7f4a5-3788-474f-b171-301e31055b84)
 
