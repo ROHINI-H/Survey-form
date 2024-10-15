@@ -1,29 +1,29 @@
-# FreeCodeCamp Project: Build a Survey form
+# 👩🏻‍💻FreeCodeCamp Project: Build a Survey form
 
-## Description
+## 🗒️Description
 This repository contains my solution to the FreeCodeCamp "Build a Survey Form" challenge as part of **Responsive Web Design Course**. The goal of this project is to create a responsive Survey form website that showcases my skills and experience. I have designed the website to survey user who have taken up a course from our training center.
 
-## FCC Challenge Link
+## 🏆FCC Challenge Link
 https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form 
 
-## Installation
+## 🌠Installation
 To view this project, simply clone this repository and open the index.html file in your web browser.
 
-## Usage
+## 🌟Usage
 This website is a survey form, showcasing my skills and experience in web development. You can use it as a template for your own survey form.
 
-## Features
+## 🌈Features
 
 - Responsive design using HTML, CSS, and JavaScript
 - A Simple survey form.
 - Project showcase with background and fields to get inputs.
 - Contact form with validation
 
-## Demo
+## 🚀Demo
 ![Screenshot 2024-09-11 200104](https://github.com/user-attachments/assets/275fc26a-8b40-424f-8925-607ce9fadb3e)
 ![Screenshot 2024-09-11 200126](https://github.com/user-attachments/assets/9be7f4a5-3788-474f-b171-301e31055b84)
 
-## FCC User Story
+## 🛸FCC User Story
 The project meets the following user stories:
 
 1. You should have a page title in an h1 element with an id of title
@@ -45,10 +45,10 @@ The project meets the following user stories:
 
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
-## Contributing
+## 🫱🏼‍🫲🏼Contributing
 If you'd like to contribute to this project, please fork this repository and submit a pull request. You can also report issues or suggest improvements by opening an issue.
 
-## License
+## 🔏License
 This project is licensed under the MIT License.
 
 ## Acknowledgments
